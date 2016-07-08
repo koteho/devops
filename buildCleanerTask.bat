@@ -1,0 +1,1 @@
+powershell C:\Utilities\buildCleaner.ps1 -basePath "\\apps02\build" -keep 50
